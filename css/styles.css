@@ -93,3 +93,19 @@ p {
   position: absolute;
   right: 30%;
 }
+
+
+/* Features Section */
+
+#features {
+  position: relative;
+  border-radius: 50px;
+}
+
+.feature-title {
+  font-size: 1.5rem;
+}
+
+.feature-box {
+  padding: 4.5%;
+}
