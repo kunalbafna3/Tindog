@@ -1,13 +1,5 @@
 # Tindog
 ![Thumbnail](https://github.com/kunalbafna3/Tindog/blob/main/homepage.PNG)
- 
-### Description
-- A dating Website for dogs.
-<br />
- **Refer to the website link in about section**.
- 
- # Tindog
-![Thumbnail](https://github.com/kunalbafna3/Tindog/blob/main/homepage.PNG)
 
 ### Description
 - A dating Website for dogs.
