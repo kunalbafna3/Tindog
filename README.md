@@ -1,4 +1,7 @@
 # Tindog
- A Website for dating for dogs similar to what we have known as Tinder using Bootstrap library as part of my learning front-end.
- <br />
+![Thumbnail]()
+ 
+### Description
+- A dating Website for dogs.
+<br />
  **Refer to the website link in about section**.
